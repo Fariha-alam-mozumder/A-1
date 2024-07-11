@@ -127,15 +127,13 @@
 
 }
 #page{
-    /* Frame 13 */
-position: absolute;
+ position: absolute;
 width: 1140px;
 height: 1395px;
 left: 150px;
 right: 150px;
 top: 857px;
 bottom: 2993px;
-/* Auto layout */
 display: flex;
 flex-direction: row;
 justify-content: flex-start;
@@ -1094,7 +1092,7 @@ margin-right: auto;
 border-radius: 16px;
 
 background: rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.2),url(Email);
-background-image: url("handshake.jpg");
+background-image: url("assets/handshake.jpg");
 
 
  }
